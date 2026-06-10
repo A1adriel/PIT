@@ -9,3 +9,6 @@
 Источник: Ubuntu 22.04 LTS 64-bit \
 Конфигурация: 1 vCPU – 1 ГБ RAM – 10 ГБ \
 Прямой публичный IP-адрес: 139.100.225.99
+
+3. Создание ssh-ключей:
+<img width="1455" height="514" alt="image" src="https://github.com/user-attachments/assets/3c20eb9b-490e-48ca-8491-53772fef603b" />
