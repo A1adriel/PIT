@@ -21,3 +21,5 @@
 ## 5. Установка Nginx и настройка страницы:
 <img width="1547" height="241" alt="image" src="https://github.com/user-attachments/assets/94b1adaf-af74-4894-bf11-3fe81b8bcd64" />
 <img width="1160" height="401" alt="image" src="https://github.com/user-attachments/assets/6a088b7c-cf2d-4350-a018-73b3a9393baa" />
+<img width="1007" height="429" alt="image" src="https://github.com/user-attachments/assets/1ba88521-9e13-4a48-aebe-cd9470d52692" />
+
