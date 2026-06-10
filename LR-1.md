@@ -23,3 +23,6 @@
 <img width="1160" height="401" alt="image" src="https://github.com/user-attachments/assets/6a088b7c-cf2d-4350-a018-73b3a9393baa" />
 <img width="1007" height="429" alt="image" src="https://github.com/user-attachments/assets/1ba88521-9e13-4a48-aebe-cd9470d52692" />
 
+## Проверка сайта, ping до адреса
+Не получилось сделать ping через домен, т.к. требовалось время, чтобы домен соединился с сервером, поэтому был совершен ping напрямую по IP-адресу
+<img width="694" height="279" alt="image" src="https://github.com/user-attachments/assets/5d74b487-e76a-491c-81bc-b58528e320df" />
