@@ -58,7 +58,7 @@ apt install -y docker-compose-plugin
 ### 3. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/A1adriel/PIT.git)
+git clone https://github.com/A1adriel/PIT.git
 cd PIT
 cd Курсовая\ работа/
 ```
