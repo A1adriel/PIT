@@ -22,3 +22,11 @@ echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] 
 
 # 4. Проверка установки Docker:
 <img width="358" height="48" alt="image" src="https://github.com/user-attachments/assets/95c89e14-e92a-41d9-acf0-c5184903dba1" />
+
+# 5. Запуск контейнера с Nginx:
+<img width="731" height="330" alt="image" src="https://github.com/user-attachments/assets/51983bbe-fc29-48b4-ab9b-1c70d3d8725d" />
+
+# 6. Доступность веб-страницы локально на сервере:
+<img width="703" height="615" alt="image" src="https://github.com/user-attachments/assets/88360e2a-d32f-48da-8812-8c3131e2a0cd" />
+
+# 7.
