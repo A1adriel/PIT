@@ -28,4 +28,5 @@
 <img width="694" height="279" alt="image" src="https://github.com/user-attachments/assets/5d74b487-e76a-491c-81bc-b58528e320df" />
 
 ## 7. Открытие сайта в браузере:
-<img width="1853" height="499" alt="image" src="https://github.com/user-attachments/assets/0a9670c4-8f71-4329-bd84-5be87c868003" />
+<img width="1543" height="330" alt="image" src="https://github.com/user-attachments/assets/616c641a-715a-478f-b8e4-b2991fb4f999" />
+
