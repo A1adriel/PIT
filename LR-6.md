@@ -1,4 +1,4 @@
-# Лабораторная работа №5: Ping Pong веб-приложение на Python + Docker Compose
+# Лабораторная работа №6: Ping Pong веб-приложение на Python + Docker Compose
 
 **Сервер:** 139.100.225.99  
 **Язык:** Python (Flask)
