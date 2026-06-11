@@ -156,8 +156,4 @@ curl http://localhost:5003/ping
 
 
 <img width="1236" height="198" alt="image" src="https://github.com/user-attachments/assets/ae5970eb-b523-4b8d-82e2-1b71fbf4f048" />
-docker compose down
 
-# Логи конкретного экземпляра
-docker compose logs app1
-```
