@@ -28,10 +28,16 @@ nginx -t && systemctl reload nginx
 <img width="1641" height="254" alt="image" src="https://github.com/user-attachments/assets/e80cdf00-f40e-4e3b-aaf5-a818cb408577" />
 
 # 3. Установка Certbot и выпуск сертификата:
+```
+snap install --classic certbot
+ln -s /snap/bin/certbot /usr/bin/certbot
+```
 <img width="612" height="138" alt="image" src="https://github.com/user-attachments/assets/824c7546-15fc-4942-a521-dc168037c33a" />
 
 # 4. Получение сертификата:
-``` certbot --nginx -d sambuev-17.ru -d www.sambuev-17.ru ```
+```
+certbot --nginx -d sambuev-17.ru -d www.sambuev-17.ru 
+```
 <img width="1015" height="885" alt="image" src="https://github.com/user-attachments/assets/91d12772-9c7f-4633-8570-c1ee1987bbf5" />
 
 # 5. Проверка автообновления:
