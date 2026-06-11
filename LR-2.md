@@ -1,6 +1,6 @@
 ## Лабораторная работа №2: Получение сертификата Let's encrypt для Nginx (без Docker)
 
-# 1. Установка и настройка веб-сервера Nginx
+# 1. Установка и настройка веб-сервера Nginx:
 ```
 apt update && apt install nginx -y
 ```
@@ -27,7 +27,7 @@ nginx -t && systemctl reload nginx
 ```
 <img width="1641" height="254" alt="image" src="https://github.com/user-attachments/assets/e80cdf00-f40e-4e3b-aaf5-a818cb408577" />
 
-# 3. Установка Certbot и выпуск сертификата:
+# 3. Установка Certbot:
 ```
 snap install --classic certbot
 ln -s /snap/bin/certbot /usr/bin/certbot
