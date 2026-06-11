@@ -29,4 +29,6 @@ echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] 
 # 6. Доступность веб-страницы локально на сервере:
 <img width="703" height="615" alt="image" src="https://github.com/user-attachments/assets/88360e2a-d32f-48da-8812-8c3131e2a0cd" />
 
-# 7.
+# 7. Проверка работы в браузере
+<img width="1275" height="424" alt="image" src="https://github.com/user-attachments/assets/9907db50-1b3f-4249-927f-f3bf7f5ea2b6" />
+
