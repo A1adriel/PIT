@@ -8,16 +8,16 @@
 
 # 3. Установка Docker Engine:
 
-Обновление пакетов: 
+Обновление пакетов:\
 <img width="755" height="404" alt="image" src="https://github.com/user-attachments/assets/c69c0f42-2eea-4e18-b9c0-e69ad5d582b1" />
 
-Установка зависимостей:
+Установка зависимостей:\
 <img width="910" height="199" alt="image" src="https://github.com/user-attachments/assets/fc85fb24-33da-4f58-85f5-59a73b3809a2" />
 
-Добавление репозитория Docker:
+Добавление репозитория Docker:\
 echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | tee /etc/apt/sources.list.d/docker.list > /dev/null
 
-Установка Docker Engine:
+Установка Docker Engine:\
 <img width="771" height="376" alt="image" src="https://github.com/user-attachments/assets/a8dbaf91-5715-44e8-a641-c77806f8f6d0" />
 
 # 4. Проверка установки Docker:
