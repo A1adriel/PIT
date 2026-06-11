@@ -59,7 +59,8 @@ apt install -y docker-compose-plugin
 
 ```bash
 git clone https://github.com/A1adriel/PIT.git)
-cd chat-app
+cd PIT
+cd Курсовая\ работа/
 ```
 
 ### 4. Настроить NGINX для HTTP (без SSL)
